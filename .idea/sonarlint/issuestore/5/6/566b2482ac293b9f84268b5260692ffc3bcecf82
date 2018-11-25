@@ -1,0 +1,11 @@
+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖŒÜ±øÿÿÿÿ8çÄ­ô,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öŠÜÁ8çÄ­ô,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÑıÆıÿÿÿÿ8çÄ­ô,
+ysquid:UselessImportCheck"KRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFClientAnchor'.(×©ƒÛûÿÿÿÿ8çÄ­ô,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8çÄ­ô,
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(èÖˆßıÿÿÿÿ8çÄ­ô,
+vsquid:UselessImportCheck"MRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFDataValidation'.(Åè£»8çÄ­ô,
+vsquid:UselessImportCheck"MRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFDataValidation'.(¿òò8çÄ­ô,
+gsquid:UselessImportCheck">Remove this unused import 'org.apache.poi.ss.usermodel.Sheet'.(·è£8çÄ­ô,
+usquid:UselessImportCheck"GRemove this unused import 'org.apache.poi.hssf.usermodel.DVConstraint'.(Ô•ÅÃøÿÿÿÿ8çÄ­ô,

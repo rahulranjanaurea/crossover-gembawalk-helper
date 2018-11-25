@@ -1,0 +1,6 @@
+base.url: https://api.crossover.com/api/
+username:
+password:
+start.date:
+end.date:
+enable.face.detection: false

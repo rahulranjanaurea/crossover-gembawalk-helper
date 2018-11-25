@@ -1,0 +1,11 @@
+
+Bsquid:S1075"&Remove this hard-coded path-delimiter.(‚¿Žç8¥Î³§ô,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¥Î³§ô,
+Asquid:S1075"&Remove this hard-coded path-delimiter.(Ž¶ÓT8¥Î³§ô,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆØñ«8¥Î³§ô,
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8¥Î³§ô,
+msquid:S1192"QDefine a constant instead of duplicating this literal "suspected-files/" 3 times.(‚¿Žç8¥Î³§ô,
+jsquid:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(”¼©þ8¥Î³§ô,
+Gsquid:S1075"&Remove this hard-coded path-delimiter.(ê¼æÊúÿÿÿÿ8¥Î³§ô,
+dsquid:S1192"HDefine a constant instead of duplicating this literal "img.jpg" 3 times.(”¼©þ8¥Î³§ô,

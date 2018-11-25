@@ -1,0 +1,10 @@
+
+xsquid:S1192ú"TDefine a constant instead of duplicating this literal "Error Writing Chart" 3 times.(è©Å—þÿÿÿÿ8Ó¯Å®ô,
+psquid:S3776S"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(ÍéÆœ8Ó¯Å®ô,
+squid:S1450M"\Remove the "startDateTemp" field and declare it as a local variable in the relevant methods.(¯“Ã¦ÿÿÿÿÿ8Ó¯Å®ô,
+{
+squid:S135~"YReduce the total number of break and continue statements in this loop to use at most one.(å›ÆÝûÿÿÿÿ8Ó¯Å®ô,
+ssquid:S1192®"ODefine a constant instead of duplicating this literal "intensityScore" 3 times.(ƒº¿Ûÿÿÿÿÿ8Ó¯Å®ô,
+Msquid:S1066·"/Merge this if statement with the enclosing one.(”‹„48Ó¯Å®ô,
+esquid:S1481p"BRemove this unused "dataSetForDailyIntensityChart" local variable.(ôŽÊ¶üÿÿÿÿ8¬€Æ®ô,
+tsquid:S1854p"QRemove this useless assignment to local variable "dataSetForDailyIntensityChart".(ôŽÊ¶üÿÿÿÿ8¬€Æ®ô,
